@@ -49,3 +49,9 @@ which i3
 sudo nano /etc/lxdm/lxdm.conf
 session=/usr/bin/i3
 
+##LXRANDR
+sudo apt-get install lxrandr
+
+##XBACKLIGHT
+sudo apt-get install xbacklight
+
