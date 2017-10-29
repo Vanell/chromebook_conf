@@ -42,3 +42,10 @@ LateXing
 ##TexMaker
 sudo apt-get install texmaker
 
+##I3
+sudo apt-get install i3
+
+which i3
+sudo nano /etc/lxdm/lxdm.conf
+session=/usr/bin/i3
+

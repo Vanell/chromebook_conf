@@ -1,0 +1,905 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sa",
+				"start_simul"
+			],
+			[
+				"sta",
+				"start_simul"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"deb",
+				"debug"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"ti",
+				"time_now"
+			],
+			[
+				"tim",
+				"time_begin"
+			],
+			[
+				"stat",
+				"start"
+			],
+			[
+				"debu",
+				"draw_debug"
+			],
+			[
+				"get",
+				"get_data"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pe",
+				"period_data"
+			],
+			[
+				"S",
+				"Sorted"
+			],
+			[
+				"ra",
+				"raw_data"
+			],
+			[
+				"op",
+				"open_csv"
+			],
+			[
+				"instal",
+				"Install"
+			],
+			[
+				"add",
+				"add_closed_order_data"
+			],
+			[
+				"clo",
+				"closed_orders_data"
+			],
+			[
+				"close",
+				"closed_orders_data"
+			],
+			[
+				"closer",
+				"closed_orders_key"
+			],
+			[
+				"pipe_parent_or",
+				"pipe_parent_closed_orders"
+			],
+			[
+				"tmp",
+				"tmp_order"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"dr",
+				"draw_state_proces"
+			],
+			[
+				"t",
+				"txt_state"
+			],
+			[
+				"cur",
+				"curses"
+			],
+			[
+				"he",
+				"height_menu_min"
+			],
+			[
+				"hi",
+				"height_wallet_min"
+			],
+			[
+				"is",
+				"is_alive"
+			],
+			[
+				"as",
+				"ask_1h"
+			],
+			[
+				"min",
+				"min"
+			],
+			[
+				"nbd",
+				"nb_data_5mn"
+			],
+			[
+				"nb",
+				"nb_data_30mn"
+			],
+			[
+				"txt_maket_data_",
+				"txt_maket_data_0"
+			],
+			[
+				"txt",
+				"txt_maket_data_3"
+			],
+			[
+				"tx",
+				"txt_maket_data_2"
+			],
+			[
+				"wid",
+				"width_market_data_min"
+			],
+			[
+				"heigh",
+				"height_open_order_min"
+			],
+			[
+				"tra",
+				"trades_data"
+			],
+			[
+				"tr",
+				"trades_data"
+			],
+			[
+				"trades_",
+				"trades_key"
+			],
+			[
+				"trad",
+				"trade"
+			],
+			[
+				"hie",
+				"height_open_order_min"
+			],
+			[
+				"ma",
+				"maxy"
+			],
+			[
+				"a_",
+				"a_ask"
+			],
+			[
+				"_",
+				"_wallet_"
+			],
+			[
+				"hei",
+				"height_wallet_min"
+			],
+			[
+				"O",
+				"Order"
+			],
+			[
+				"A",
+				"A_UNDERLINE"
+			],
+			[
+				"cu",
+				"curses"
+			],
+			[
+				"dar",
+				"draw_open_order"
+			],
+			[
+				"_wa",
+				"_wallet_"
+			],
+			[
+				"open",
+				"open_order_data"
+			],
+			[
+				"ad",
+				"addstr"
+			],
+			[
+				"draw",
+				"draw_open_order"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"dra",
+				"draw_debug"
+			],
+			[
+				"time",
+				"time"
+			],
+			[
+				"data",
+				"data_wallet"
+			],
+			[
+				"wi",
+				"width_debug_min"
+			],
+			[
+				"bi",
+				"bid_1h"
+			],
+			[
+				"bid",
+				"bid_p"
+			],
+			[
+				"ask",
+				"ask_p"
+			],
+			[
+				"sprea",
+				"Spread"
+			],
+			[
+				"l",
+				"list"
+			],
+			[
+				"spre",
+				"spread_history"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"max",
+				"maxy"
+			],
+			[
+				"w",
+				"width_menu_min"
+			],
+			[
+				"width_",
+				"width_menu_min"
+			],
+			[
+				"r",
+				"rhistory"
+			],
+			[
+				"spread",
+				"spread_data"
+			],
+			[
+				"dat",
+				"data_wallet"
+			],
+			[
+				"da",
+				"data_wallet"
+			],
+			[
+				"his",
+				"history"
+			],
+			[
+				"pip",
+				"pip_child"
+			],
+			[
+				"update_",
+				"update_wallet"
+			],
+			[
+				"t_",
+				"t_refresh"
+			],
+			[
+				"hist",
+				"history_p"
+			],
+			[
+				"s",
+				"start_spread"
+			],
+			[
+				"sp",
+				"spread_history"
+			],
+			[
+				"Ke",
+				"API_Key"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"str",
+				"start_bot"
+			],
+			[
+				"st",
+				"start_bot"
+			],
+			[
+				"a",
+				"addstr"
+			],
+			[
+				"sel",
+				"selection"
+			],
+			[
+				"int",
+				"interface"
+			],
+			[
+				"log",
+				"log_in_curses"
+			],
+			[
+				"lo",
+				"log_in_curses"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"AP",
+				"API_Key"
+			],
+			[
+				"ord",
+				"order"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"typ",
+				"type_deal"
+			],
+			[
+				"o",
+				"order"
+			],
+			[
+				"od",
+				"order_numbers"
+			],
+			[
+				"orde",
+				"order_numbers"
+			],
+			[
+				"pa",
+				"parse_data"
+			],
+			[
+				"mar",
+				"market1h"
+			],
+			[
+				"tm",
+				"tmps"
+			],
+			[
+				"spred",
+				"spread_lin"
+			],
+			[
+				"sr",
+				"spread_lin"
+			],
+			[
+				"tem",
+				"tempo_ask"
+			],
+			[
+				"curve",
+				"curve_market"
+			],
+			[
+				"lis",
+				"list_pts"
+			],
+			[
+				"la",
+				"layers"
+			],
+			[
+				"Servo",
+				"Servo1_pin"
+			],
+			[
+				"Ser",
+				"Servo1"
+			],
+			[
+				"mo",
+				"moy_ask_init"
+			],
+			[
+				"B",
+				"BTC_now"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"Quan",
+				"Quantity_start"
+			],
+			[
+				"Quant",
+				"Quantity_end"
+			],
+			[
+				"Qua",
+				"Quantity_start"
+			],
+			[
+				"down",
+				"downloader"
+			],
+			[
+				"fl",
+				"float\tfloat"
+			],
+			[
+				"li",
+				"list\tlist"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"last_filter": "c++",
+		"selected_items":
+		[
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"la",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/vanell/Documents/chromebook_conf"
+	],
+	"file_history":
+	[
+		"/home/vanell/Documents/Appleseed_Dev/order.py",
+		"/home/vanell/Documents/Appleseed_Dev/bot_algo.txt",
+		"/home/vanell/Documents/Appleseed_Dev/simul.py",
+		"/home/vanell/Documents/Appleseed_Dev/Applessed.py",
+		"/home/vanell/Documents/GitHub/Appleseed/BTC/bot.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/curses_test.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/curve_market.py",
+		"/home/vanell/Documents/3D printers/config.yaml",
+		"/home/vanell/Documents/3D printers/power_x.gcode",
+		"/home/vanell/Documents/3D printers/profil_cura.ini",
+		"/home/vanell/Documents/3D printers/Firmare/Marlin/Marlin/Marlin.ino",
+		"/home/vanell/Documents/3D printers/Firmare/Marlin/Marlin/Configuration.h",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/request_API.py",
+		"/home/vanell/Documents/GitHub/Appleseed/Data/traitement_data.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/Request API/Private/ClosedOrders",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/test_request.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/Install_require.sh",
+		"/media/vanell/boot/cmdline.txt",
+		"/media/vanell/boot/issue.txt",
+		"/media/vanell/boot/config.txt",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/calc_price.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/authent.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/wallet.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/Request API/Private/OpenOrders",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/test.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/test_spread.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/view_curve_market.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/multiproc.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/order.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/api.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/Request API/Private/Balance",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/calcule_gain.py",
+		"/home/vanell/Documents/UTT/P15/TX/TX_P15/tri_macro.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/display_market.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/Applessed.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/API_Kraken/Applessed.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/chiffrement.py",
+		"/home/vanell/Documents/Pyorbital/iss.py",
+		"/home/vanell/Documents/Pyorbital/iss_tracker.py",
+		"/home/vanell/Documents/GitHub/Appleseed_Dev/README.md",
+		"/home/vanell/Documents/GitHub/Appleseed/API Kraken/salt.txt",
+		"/home/vanell/Documents/GitHub/Appleseed/API Kraken/api_key.txt",
+		"/home/vanell/settings.json",
+		"/home/vanell/Documents/TN12 Technologie",
+		"/home/vanell/Documents/UTT/P15/TX/TX_P15/view_tri.py",
+		"/home/vanell/Documents/GitHub/vanell.github.io/index.html",
+		"/home/vanell/Documents/GitHub/vanell.github.io/hubpress/config.json",
+		"/home/vanell/Documents/GitHub/vanell.github.io/hubpress/index.html",
+		"/home/vanell/Documents/GitHub/vanell.github.io/index.md",
+		"/home/vanell/Documents/GitHub/vanell.github.io/_config.yml",
+		"/home/vanell/Documents/GitHub/vanell.github.io/404.html",
+		"/home/vanell/Documents/GitHub/vanell.github.io/_layouts/default.html",
+		"/home/vanell/Documents/GitHub/vanell.github.io/atom.xml",
+		"/home/vanell/Documents/GitHub/vanell.github.io/archive.html",
+		"/home/vanell/Documents/GitHub/Appleseed/Script test/test_refresh_courbe.py",
+		"/home/vanell/Documents/UTT/P15/TX/TX_P15/tri.py",
+		"/home/vanell/Documents/UTT/P15/TX/TX_P15/macro_xml_catia.vba",
+		"/home/vanell/Documents/UTT/P15/TX/TX_P15/install_win.py",
+		"/home/vanell/Documents/UTT/P15/TX/TX_P15/README.md",
+		"/home/vanell/Documents/UTT/P15/EA01/Asservisement/Gnuplot/bode_ordre4_factoriser.txt",
+		"/home/vanell/Documents/UTT/P15/EA01/Asservisement/Gnuplot/bode_ordre4_factoriser_cor.txt",
+		"/home/vanell/Documents/Untitled Document",
+		"/home/vanell/Documents/README.txt",
+		"/home/vanell/Documents/log_programm_file.txt",
+		"/home/vanell/Documents/hack_box.py",
+		"/home/vanell/Documents/C:\\nppdf32Log\\debuglog.txt",
+		"/home/vanell/Documents/Gnuplot/GnuplotSetup.sh",
+		"/home/vanell/Downloads/2dcollections3d_demo.py",
+		"/home/vanell/Downloads/text3d_demo.py",
+		"/home/vanell/Documents/UTT/P15/TX/TX_P15/test_xml_sorted.xml",
+		"/home/vanell/Downloads/Hello!.md",
+		"/home/vanell/Downloads/quiver3d_demo.py",
+		"/home/vanell/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/vanell/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/vanell/Documents/Project/Cube/Programme/cube.ino",
+		"/home/vanell/Downloads/Downloads Torrent/Bones.S09E19.FRENCH.LD.HDTV.XviD-ASPHiXiAS/Bones.S09E19.FRENCH.LD.HDTV.XviD-ASPHiXiAS.nfo",
+		"/home/vanell/Documents/GitHub/Appleseed/Appleseed/test.py",
+		"/home/vanell/Documents/GitHub/Appleseed/Appleseed/Applessed.py",
+		"/home/vanell/Documents/3D printers/Firmare/Test /test_com/1.py",
+		"/media/vanell/220A56450A5615DF/Documents and Settings/Geoffrey/Desktop/eurobot-CAO/2015-robot_principale/RC-15_Asm_Esm_motrice.SLDASM",
+		"/media/vanell/220A56450A5615DF/Documents and Settings/Geoffrey/Desktop/eurobot-CAO/2015-robot_principale/RC-15_Moteur/118749.txt",
+		"/media/vanell/220A56450A5615DF/Documents and Settings/Geoffrey/Desktop/eurobot-CAO/2015-robot_principale/RC-15_Pince/MP/RC-15_Axe-Cylindre-Main.SLDDRW",
+		"/home/vanell/Documents/GitHub/Appleseed/azerty/Appleseed/test.py",
+		"/home/vanell/Documents/3D printers/return.gcode",
+		"/home/vanell/Documents/GitHub/Appleseed/azerty/Appleseed/request_API.py",
+		"/home/vanell/Documents/GitHub/Appleseed/calcul_price.py",
+		"/home/vanell/Documents/UTT/P15/TX/docs-depart/programmes-robot/trucXML.kl",
+		"/home/vanell/Documents/UTT/P15/TX/docs-depart/daedal_controle/daedal_controle.ino",
+		"/home/vanell/Documents/UTT/P15/TX/PT/BoobySurface.stp",
+		"/home/vanell/Documents/UTT/P15/TX/PT/boobysolide.obj",
+		"/home/vanell/Documents/UTT/P15/TX/PT/one_solide.obj",
+		"/home/vanell/Documents/UTT/P15/TX/pythonocc.py",
+		"/home/vanell/Documents/UTT/P15/TX/tryocc.py",
+		"/home/vanell/Documents/3D printers/Model_calibration/overhang_test.gcode",
+		"/home/vanell/Documents/3D printers/Modele_3D/pikachu_1gen_flowalistik.gcode",
+		"/home/vanell/Documents/3D printers/dimensional_accuracy_test.gcode",
+		"/home/vanell/Documents/3D printers/Model_calibration/dimensional_accuracy_test2.gcode",
+		"/home/vanell/Documents/3D printers/Model_calibration/XY_resonance_test.gcode",
+		"/media/vanell/1027-F61E/config.txt",
+		"/media/vanell/1027-F61E/cmdline.txt",
+		"/usr/lib/python2.7/dist-packages/OCC/STEPControl.py",
+		"/home/vanell/Documents/UTT/P15/TX/try1.step",
+		"/home/vanell/Downloads/Présentation SolidWorks Electrical.ics",
+		"/home/vanell/Documents/UTT/P15/TX/docs-depart/programmes-robot/Test_XML.txt",
+		"/home/vanell/Documents/3D printers/Firmare/Test /test_com/test_com-py.py",
+		"/home/vanell/Documents/UTT/P15/TX/docs-depart/programmes-robot/depose_piece.tp",
+		"/home/vanell/Documents/3D printers/Firmare/Test /test_com/test_com-py.ino",
+		"/home/vanell/Documents/GitHub/Appleseed/BTC/log.py",
+		"/home/vanell/Documents/GitHub/Appleseed/BTC/test_api.py",
+		"/home/vanell/Documents/GitHub/Appleseed/BTC/supervisor.py",
+		"/home/vanell/Documents/GitHub/Appleseed/BTC/chiffrement.py",
+		"/home/vanell/Documents/GitHub/Appleseed/BTC/test_algo.py",
+		"/home/vanell/Documents/GitHub/Appleseed/API Kraken/krakenex-master/krakenex/test_api.py",
+		"/home/vanell/Documents/GitHub/Appleseed/BTC/ecriture.txt",
+		"/home/vanell/Documents/3D printers/Firmare/arduino-0023/revisions.txt",
+		"/media/vanell/220A56450A5615DF/Documents and Settings/Geoffrey/Desktop/Printers3D/Nouveau document texte.txt",
+		"/home/vanell/Downloads/Downloads Torrent/SW2014_SP4.0_Full_SSQ/SolidSQUAD.txt",
+		"/media/vanell/LaCie/Liste Nouveau Film.txt",
+		"/home/vanell/Documents/GitHub/Appleseed/API Kraken/krakenex-master/krakenex/__init__.py",
+		"/home/vanell/Documents/License ST 2.txt",
+		"/home/vanell/Documents/GitHub/Appleseed/API Kraken/krakenex-master/krakenex/test.py",
+		"/home/vanell/Documents/GitHub/Others/SoCo/examples/webapp/settings.py",
+		"/home/vanell/Documents/GitHub/Others/SoCo-Tk/SoCo-tk.py",
+		"/home/vanell/Documents/GitHub/Others/sonos_controler.py",
+		"/usr/local/lib/python2.7/dist-packages/soco/plugins/spotify.py",
+		"/usr/local/lib/python2.7/dist-packages/soco/plugins/example.py",
+		"/home/vanell/Documents/test/linux-2.6.35/Documentation/power/apm-acpi.txt",
+		"/home/vanell/Documents/test/linux-2.6.35/Documentation/power/00-INDEX"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"accélération",
+			"debug",
+			"interface_history",
+			"spread_data",
+			"data",
+			"market_data",
+			"\tdraw_debug(raw_data[0], \"Raw Data 0\")\n\tdraw_debug(raw_data[-1], \"Raw Data -1\")",
+			"draw_last_trades_",
+			"draw_open_order_",
+			"nb_data_",
+			"_open_order__",
+			"_open_order",
+			"_open_order_",
+			"width_debug_min",
+			"debug",
+			"txt_refresh",
+			"width_spread_min",
+			"self",
+			"draw_spread",
+			"pair",
+			"history",
+			"sp",
+			"rhistory",
+			"option",
+			"selection",
+			"valide",
+			"2",
+			"wallet_current",
+			"authent",
+			"market1h",
+			"('')",
+			"hour",
+			"plt",
+			"self",
+			"):\n",
+			"log_in",
+			"()",
+			"\t\t\n",
+			"ab",
+			"ba",
+			"aa",
+			"tempo_bid",
+			"tempo_ask",
+			"\"\"\n",
+			"Adafruit_CharLCDPlate",
+			"file_name_py",
+			"\tdelay(1000);\n",
+			"ReadFile",
+			"'))\n",
+			"split",
+			"G2",
+			"delta",
+			"\t\n",
+			"XXBTZEUR",
+			"result",
+			"\"b\",",
+			"_encoding",
+			"self._"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"market_data",
+			"draw_last_trades",
+			"draw_open_order",
+			"_open_order_",
+			"width_open_order_min",
+			"txt_maket_data",
+			"width_debug_min",
+			"draw_market_data",
+			"interface_history",
+			"_spread_",
+			"rspread",
+			"option_quit",
+			"option_menu",
+			"selection_menu",
+			"_wallet_",
+			"self",
+			"market1min",
+			"curve_bid.b",
+			"curve_ask.b",
+			"curve_ask.a",
+			"delta_time",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 23.0
+	},
+	"pinned_build_system": "",
+	"project": "chromebook_conf.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
