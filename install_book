@@ -1,0 +1,44 @@
+sudo apt-get update
+sudo apt-get dist-upgrade
+
+#Git
+sudo apt-get install git
+
+##Install Flux
+sudo add-apt-repository ppa:nathan-renniewaldock/flux
+sudo apt-get update
+sudo apt-get install fluxgui
+
+##Install Rambox 
+#Download it
+cp rambox.tar.gz /opt
+tar -zxvf rambox.tar.gz
+
+sudo ln -s /opt/Rambox/ /usr/local/rambox
+sudo ln -s /usr/local/rambox/rambox /usr/local/bin/
+
+##Install SublimeText3
+cp sublime.tar.bz2 /opt
+tar -xvjf sublime.tar.bz2
+
+sudo ln -s /opt/Sulime_Text/ /usr/local/sublime_text
+sudo ln -s /usr/local/sublime_text/sublime_text /usr/local/bin/subl
+
+#Package Control
+import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
+
+#Plugins
+Alignment
+BracketHighlighter
+Color Highlighter
+ColorPicker
+DuplicateSelections
+Inc-Dec-Value
+Jedi
+SideBarEnchancements
+SublimeLinter
+LateXing
+
+##TexMaker
+sudo apt-get install texmaker
+
