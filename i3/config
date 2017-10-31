@@ -160,6 +160,8 @@ bar {
 }
 
 
+bindsym Control+mod1+e exec thunar
+
 # keybinding F touch
 bindsym F5 exec lxrandr
 bindsym F6 exec xbacklight -dec 10 # decrease screen brightness

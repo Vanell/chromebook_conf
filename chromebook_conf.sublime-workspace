@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"i3",
+				"i3lock-fancy"
+			],
+			[
+				"loc",
+				"local"
+			],
+			[
+				"insta",
+				"install"
+			],
+			[
 				"sa",
 				"start_simul"
 			],
@@ -565,6 +577,13 @@
 	],
 	"file_history":
 	[
+		"/home/vanell/.config/i3/config",
+		"/home/vanell/.zshrc",
+		"/home/vanell/.oh-my-zsh/themes/agnoster.zsh-theme",
+		"/home/vanell/Documents/chromebook_conf/install_book",
+		"/home/vanell/.config/i3/i3status.conf",
+		"/home/vanell/.config/i3/volume_control.sh",
+		"/home/vanell/Documents/Appleseed_Dev/appleseed.sublime-project",
 		"/home/vanell/Documents/Appleseed_Dev/order.py",
 		"/home/vanell/Documents/Appleseed_Dev/bot_algo.txt",
 		"/home/vanell/Documents/Appleseed_Dev/simul.py",
@@ -685,14 +704,7 @@
 		"/media/vanell/LaCie/Liste Nouveau Film.txt",
 		"/home/vanell/Documents/GitHub/Appleseed/API Kraken/krakenex-master/krakenex/__init__.py",
 		"/home/vanell/Documents/License ST 2.txt",
-		"/home/vanell/Documents/GitHub/Appleseed/API Kraken/krakenex-master/krakenex/test.py",
-		"/home/vanell/Documents/GitHub/Others/SoCo/examples/webapp/settings.py",
-		"/home/vanell/Documents/GitHub/Others/SoCo-Tk/SoCo-tk.py",
-		"/home/vanell/Documents/GitHub/Others/sonos_controler.py",
-		"/usr/local/lib/python2.7/dist-packages/soco/plugins/spotify.py",
-		"/usr/local/lib/python2.7/dist-packages/soco/plugins/example.py",
-		"/home/vanell/Documents/test/linux-2.6.35/Documentation/power/apm-acpi.txt",
-		"/home/vanell/Documents/test/linux-2.6.35/Documentation/power/00-INDEX"
+		"/home/vanell/Documents/GitHub/Appleseed/API Kraken/krakenex-master/krakenex/test.py"
 	],
 	"find":
 	{
@@ -700,7 +712,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 98.0,
 		"where_history":
 		[
 		]
@@ -710,6 +722,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"i3loc",
 			"accélération",
 			"debug",
 			"interface_history",
@@ -897,7 +910,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 175.0,
+	"side_bar_width": 271.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
