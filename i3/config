@@ -172,3 +172,6 @@ bindsym F10 exec pactl set-sink-volume 1 +2% #increase sound volume
 exec --no-startup-id nm-applet
 exec --no-startup-id fluxgui
 exec --no-startup-id pasystray
+
+#I3 Lock
+bindsym Control+mod1+l exec lock
