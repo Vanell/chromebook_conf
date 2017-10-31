@@ -158,3 +158,17 @@ bar {
         # Using custom i3status.conf
         status_command i3status -c ~/.config/i3/i3status.conf
 }
+
+
+# keybinding F touch
+bindsym F5 exec lxrandr
+bindsym F6 exec xbacklight -dec 10 # decrease screen brightness
+bindsym F7 exec xbacklight -inc 10 # increase screen brightness
+bindsym F8 exec pactl set-sink-mute 1 toggle #mute sound volume
+bindsym F9 exec pactl set-sink-volume 1 -2% #decrease sound volume
+bindsym F10 exec pactl set-sink-volume 1 +2% #increase sound volume
+
+#Startup programms
+exec --no-startup-id nm-applet
+exec --no-startup-id fluxgui
+exec --no-startup-id pasystray
